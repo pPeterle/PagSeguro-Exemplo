@@ -1,0 +1,2 @@
+rootProject.name='Pag Seguro'
+include ':app'
